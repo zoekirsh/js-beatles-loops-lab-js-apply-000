@@ -21,7 +21,7 @@ function iLoveTheBeatles(i) {
   const biggestFan =[];
   do {
     biggestFan.push("I love the Beatles!")
-    i = i +1 
+    i++ 
   } while (i < 15);
   return biggestFan;
 }
