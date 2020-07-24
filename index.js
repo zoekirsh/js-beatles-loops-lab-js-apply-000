@@ -5,7 +5,6 @@ function theBeatlesPlay(musicians, instruments) {
   } return theyPlay
 }
 
-
 function johnLennonFacts(facts) {
   const excitedFacts = [];
   let i=0
